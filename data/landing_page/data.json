@@ -118,7 +118,7 @@
             { 
                 "gameTitle": "God of War",
                 "description": "In God of War, players control Kratos, a Spartan warrior who is sent by the Greek gods to kill Ares, the god of war. As the story progresses, Kratos is revealed to be Ares' former servant, who had been tricked into killing his own family and is haunted by terrible nightmares.",
-                "categoryPage": "/#/godOfWar",
+                "categoryPage": "/#/category",
                 "imgSrc": "http://127.0.0.1:5000/data/category/God-of-War.webp"
             },
             { 

@@ -1,5 +1,6 @@
 from flask import send_from_directory, send_file
-from config.libs import *
+from flask import Flask, request, redirect, jsonify
+from flask_cors import CORS, cross_origin
 from json import dumps, load
 
 app = Flask(__name__)

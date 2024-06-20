@@ -36,7 +36,7 @@ def get_user(user_id):
 def get_index(id):
     file_content: dict
     
-    with open("data/landing_page/data.json", "r", encoding="UTF-8") as file:
+    with open("api/data/landing_page/data.json", "r", encoding="UTF-8") as file:
         file_content = load(file)
     
     content = file_content[id]

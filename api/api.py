@@ -41,7 +41,13 @@ def get_index(id):
     
     content = file_content[id]
 
-    return content
+    response = app.response_class(
+        response=dumps(content),
+        status=200,
+        mimetype='application/json'
+    )
+
+    return response
 
 @app.route("/<path:filename>", methods=['GET'])
 def get_image(filename):

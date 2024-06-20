@@ -1,7 +1,7 @@
 [
  [
         {
-            "imgSrc": "http://127.0.0.1:5000/data/articles/img/howtousethecreepercape1.png", 
+            "imgSrc": "https://dicas-de-jogos-api.vercel.app/data/articles/img/howtousethecreepercape1.png", 
             "gameName": "Minecraft", 
             "categoryPage": "/", 
             "articleTitle": "How to use the Creeper cape in Minecraft", 

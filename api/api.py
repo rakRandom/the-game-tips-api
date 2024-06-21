@@ -2,7 +2,7 @@ from flask import send_from_directory
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 from json import dumps, load
-from api.modules.foo import json_get_data
+from api.modules.get import json_get_data
 
 app = Flask(__name__)
 app.debug = True

@@ -1,28 +1,11 @@
 from api.api import *
-from foo import json_get_data
 
-@app.route("/get-author", methods=['GET'])
-@app.route("/get-author/<int:id>", methods=['GET'])
-@cross_origin()
-def get_author(id=None):
-    content = json_get_data("authors/data.json")
-
-    if not content:
-        return jsonify("{}", 200)
+def json_get_data(path: str):
+    file_content: dict
     
-    try:
-        if id:
-            content = content[id]
-    except:
-        return jsonify("{}", 200)
-
-    if not content:
-        return jsonify("{}", 200)
-
-    response = app.response_class(
-        response=dumps(content),
-        status=200,
-        mimetype='application/json'
-    )
-
-    return response
+    with open(f"api/data/{path}", "r", encoding="UTF-8") as file:
+        file_content = load(file)
+    
+    if file_content:
+        return file_content
+    return

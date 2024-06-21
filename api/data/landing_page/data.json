@@ -55,7 +55,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
-                        "imgSrc": "data/articles/img/imagem5.jpg",
+                        "imgSrc": "data/articles/img/Imagem5.jpg",
                         "gameName": "Final Fantasy VII Rebirth", 
                         "title": "How to Get Dark Matter", 
                         "authorPhotoSrc": "/", 
@@ -94,7 +94,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
-                        "imgSrc": "data/articles/img/imagem5.jpg",
+                        "imgSrc": "data/articles/img/Imagem5.jpg",
                         "gameName": "Final Fantasy VII Rebirth", 
                         "title": "How to Get Dark Matter", 
                         "authorPhotoSrc": "/", 
@@ -110,8 +110,8 @@
                 ["Minecraft", "How to use the Creeper cape in Minecraft", "data/articles/img/howtousethecreepercape2.png", "/"],
                 ["Elden Ring", "How to get the Meteorite Ore Blade in Elden Ring", "data/articles/img/howtogetthemeteoriteoreblade1.png", "/"],
                 ["Modern Warfare", "How to earn the Modern Warfare Golden Path achievement", "data/articles/img/modernwarfare.png", "/"],
-                ["Final Fantasy VII Rebirth", "How to Get Dark Matter", "data/articles/img/imagem5.jpg", "/"],
-                ["Hogwarts Legacy", "How to unlock more equipment and storage slots in Hogwarts Legacy", "data/articles/img/imagem6.png", "/"]
+                ["Final Fantasy VII Rebirth", "How to Get Dark Matter", "data/articles/img/Imagem5.jpg", "/"],
+                ["Hogwarts Legacy", "How to unlock more equipment and storage slots in Hogwarts Legacy", "data/articles/img/Imagem6.png", "/"]
             ]
         }, 
         [

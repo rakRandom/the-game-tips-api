@@ -1,7 +1,8 @@
-from flask import send_from_directory, send_file
-from flask import Flask, request, redirect, jsonify
+from flask import send_from_directory
+from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 from json import dumps, load
+from api.modules.foo import json_get_data
 
 app = Flask(__name__)
 app.debug = True
@@ -34,12 +35,10 @@ def get_user(user_id):
 @app.route("/get-index/<int:id>", methods=['GET'])
 @cross_origin()
 def get_index(id):
-    file_content: dict
-    
-    with open("api/data/landing_page/data.json", "r", encoding="UTF-8") as file:
-        file_content = load(file)
-    
-    content = file_content[id]
+    try:
+        content = json_get_data("landing_page/data.json")[id]
+    except:
+        return jsonify("{}", 200)
 
     response = app.response_class(
         response=dumps(content),

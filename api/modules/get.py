@@ -14,7 +14,7 @@ def get_author(id=None):
         if id:
             content = content[id]
     except:
-        return
+        return jsonify("{}", 200)
 
     if not content:
         return jsonify("{}", 200)

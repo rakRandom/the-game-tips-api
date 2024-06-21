@@ -1,8 +1,8 @@
 from api.api import *
 from foo import json_get_data
 
-@app.route("/get-author")
-@app.route("/get-author/<int:id>")
+@app.route("/get-author", methods=['GET'])
+@app.route("/get-author/<int:id>", methods=['GET'])
 @cross_origin()
 def get_author(id=None):
     content = json_get_data("authors/data.json")

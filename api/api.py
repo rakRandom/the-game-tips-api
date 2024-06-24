@@ -80,7 +80,7 @@ def get_author(id=None):
 def get_image(filename):
     return send_from_directory("", filename, mimetype="image", as_attachment=False)
 
-@app.route("json/<path:filename>", methods=['GET', 'PUT'])
+@app.route("/json/<path:filename>", methods=['GET', 'PUT'])
 def json(filename):
     if request.method == 'GET':
         return send_from_directory("", filename, mimetype="application/json", as_attachment=False)

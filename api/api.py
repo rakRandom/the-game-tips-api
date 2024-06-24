@@ -1,5 +1,7 @@
+from flask import Flask
 from flask import send_from_directory
-from flask import Flask, request, jsonify
+from flask import request
+from flask import jsonify
 from flask_cors import CORS, cross_origin
 from json import dumps, load
 from api.modules.get import json_get_data
@@ -77,3 +79,12 @@ def get_author(id=None):
 @app.route("/<path:filename>", methods=['GET'])
 def get_image(filename):
     return send_from_directory("", filename, mimetype="image", as_attachment=False)
+
+@app.route("json/<path:filename>", methods=['GET', 'PUT'])
+def json(filename):
+    if request.method == 'GET':
+        return send_from_directory("", filename, mimetype="application/json", as_attachment=False)
+    elif request.method == 'PUT':
+        with open(filename, "w", encoding="UTF-8") as file:
+            file.write(request.form['content'])
+            return {}, 200

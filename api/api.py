@@ -83,7 +83,7 @@ def get_image(filename):
 @app.route("/json/<path:filename>", methods=['GET', 'PUT'])
 def json(filename):
     if request.method == 'GET':
-        return send_from_directory("", filename, mimetype="application/json", as_attachment=False)
+        return send_from_directory("", filename, mimetype="text/plain", as_attachment=False)
     elif request.method == 'PUT':
         data = request.get_json()
         if "content" not in data.get_keys():

@@ -80,12 +80,12 @@ def get_author(id=None):
 def get_image(filename):
     return send_from_directory("", filename, mimetype="image", as_attachment=False)
 
-@app.route("/json/<path:filename>", methods=['GET', 'PUT'])
+@app.route("/json/<path:filename>", methods=['GET', 'POST'])
 @cross_origin()
 def json(filename):
     if request.method == 'GET':
         return send_from_directory("", filename, mimetype="application/json", as_attachment=False)
-    elif request.method == 'PUT':
+    elif request.method == 'POST':
         data = request.get_json()
         print(data.get_keys())
         if "content" not in data.get_keys():

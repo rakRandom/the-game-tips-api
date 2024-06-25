@@ -87,8 +87,7 @@ def json(filename):
         return send_from_directory("", filename, mimetype="application/json", as_attachment=False)
     elif request.method == 'POST':
         data = request.get_json()
-        print(data.get_keys())
-        if "content" not in data.get_keys():
+        if "content" not in data.keys():
             return {}, 204
         with open(filename, "w", encoding="UTF-8") as file:
             file.write(data["content"])

@@ -34,15 +34,15 @@
                         "imgSrc": "data/articles/img/howtousethecreepercape2.png",
                         "gameName": "Minecraft", 
                         "title": "How to use the Creeper cape in Minecraft", 
-                        "authorPhotoSrc": "/", 
-                        "authorName": "Lucas T.", 
+                        "authorPhotoSrc": "data/authors/img/fellipe.png", 
+                        "authorName": "Fellipe",
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
                         "imgSrc": "data/articles/img/howtogetthemeteoriteoreblade1.png",
                         "gameName": "Elden Ring", 
                         "title": "How to get the Meteorite Ore Blade in Elden Ring", 
-                        "authorPhotoSrc": "/", 
+                        "authorPhotoSrc": "data/authors/img/matheus.jpeg", 
                         "authorName": "Matheus", 
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
@@ -50,24 +50,24 @@
                         "imgSrc": "data/articles/img/modernwarfare.png",
                         "gameName": "Modern Warfare", 
                         "title": "How to earn the Modern Warfare Golden Path achievement", 
-                        "authorPhotoSrc": "/", 
-                        "authorName": "Henrique", 
+                        "authorPhotoSrc": "data/authors/img/barbara.png", 
+                        "authorName": "Bárbara", 
                         "postDate": "19/06/2024", 
                         "articlePage": "0"
                     },{  
                         "imgSrc": "data/articles/img/Imagem5.jpg",
                         "gameName": "Final Fantasy VII Rebirth", 
                         "title": "How to Get Dark Matter", 
-                        "authorPhotoSrc": "/", 
-                        "authorName": "Bárbara", 
+                        "authorPhotoSrc": "data/authors/img/henrique.jpeg", 
+                        "authorName": "Henrique", 
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
                         "imgSrc": "data/articles/img/Imagem6.png",
                         "gameName": "Hogwarts Legacy", 
-                        "title": "How to unlock more equipment and storage slots in Hogwarts Legacy", 
-                        "authorPhotoSrc": "/", 
-                        "authorName": "Fellipe", 
+                        "title": "How to unlock more equipment and storage slots in Hogwarts Legacy",  
+                        "authorPhotoSrc": "data/authors/img/lucas.jpeg", 
+                        "authorName": "Lucas T.", 
                         "postDate": "19/06/2024", 
                         "articlePage": "/"
                     }

@@ -2,18 +2,18 @@
     [
         {
             "game": {
-                "name": "",
-                "src": ""
+                "name": "Modern Warfare",
+                "src": "3"
             },
-            "title": "",
+            "title": "How to earn the Modern Warfare Golden Path achievement",
             "image": {
-                "src": "",
+                "src": "data/articles/img/modernwarfare.png",
                 "alt": ""
             },
             "info": {
-                "date": "",
+                "date": "27/05/2024",
                 "author": {
-                    "name": "",
+                    "name": "Henrique",
                     "id": 0,
                     "imgSrc": ""
                 }

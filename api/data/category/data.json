@@ -1,0 +1,50 @@
+[
+    {
+        "gameName": "",
+        "aboutText": "",
+        "image": {
+            "src": "",
+            "alt": ""
+        },
+        "sections": [
+            {
+                "title": "", 
+                "seeAllPage": "",
+                "contents": [
+                    { 
+                        "gameName": "", 
+                        "title": "", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "", 
+                        "postDate": "", 
+                        "articlePage": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "gameName": "",
+        "aboutText": "",
+        "image": {
+            "src": "",
+            "alt": ""
+        },
+        "sections": [
+            {
+                "title": "", 
+                "seeAllPage": "",
+                "contents": [
+                    { 
+                        "gameName": "", 
+                        "title": "", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "", 
+                        "postDate": "", 
+                        "articlePage": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

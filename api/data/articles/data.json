@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "game": {
+                "name": "",
+                "src": ""
+            },
+            "title": "",
+            "image": {
+                "src": "",
+                "alt": ""
+            },
+            "info": {
+                "date": "",
+                "author": {
+                    "name": "",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+            {
+                "title": "",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    ""
+                ]
+            }
+        ]
+    ]
+]

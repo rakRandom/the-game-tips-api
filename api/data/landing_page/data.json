@@ -119,19 +119,19 @@
                 "gameTitle": "God of War",
                 "description": "In God of War, players control Kratos, a Spartan warrior who is sent by the Greek gods to kill Ares, the god of war. As the story progresses, Kratos is revealed to be Ares' former servant, who had been tricked into killing his own family and is haunted by terrible nightmares.",
                 "categoryPage": "/#/category",
-                "imgSrc": "data/category/God-of-War.webp"
+                "imgSrc": "data/category/img/God-of-War.webp"
             },
             { 
                 "gameTitle": "The Last Of Us",
                 "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
                 "categoryPage": "",
-                "imgSrc": "data/category/thelastofus.avif"
+                "imgSrc": "data/category/img/thelastofus.avif"
             },
             { 
                 "gameTitle": "Red Dead Redemption 2",
                 "description": "Red Dead Redemption is set during the decline of the American frontier in the year 1911. It follows John Marston, a former outlaw who, after his wife and son are taken hostage by the government in ransom for his services as a hired gun, sets out to bring three members of his former gang to justice.",
                 "categoryPage": "",
-                "imgSrc": "data/category/rdr2.webp"
+                "imgSrc": "data/category/img/rdr2.webp"
             }
         ]
     ]   

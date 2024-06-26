@@ -3,12 +3,12 @@
         {
             "imgSrc": "data/articles/img/modernwarfare.png", 
             "gameName": "Modern Warfare", 
-            "categoryPage": "/", 
+            "categoryID": "0", 
             "articleTitle": "How to earn the Modern Warfare Golden Path achievement", 
             "authorName": "Henrique", 
             "articleDate": "27/05/2024", 
             "authorPage": "0", 
-            "articlePage": "0"
+            "articleID": "0"
         },
         {
             "title": "Bullet Tips",
@@ -53,6 +53,14 @@
                         "authorPhotoSrc": "/", 
                         "authorName": "Lucas T.", 
                         "postDate": "19/06/2024", 
+                        "articlePage": "0"
+                    },{  
+                        "imgSrc": "data/articles/img/Imagem5.jpg",
+                        "gameName": "Final Fantasy VII Rebirth", 
+                        "title": "How to Get Dark Matter", 
+                        "authorPhotoSrc": "/", 
+                        "authorName": "Lucas T.", 
+                        "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
                         "imgSrc": "data/articles/img/Imagem5.jpg",
@@ -92,6 +100,14 @@
                         "authorPhotoSrc": "/", 
                         "authorName": "Lucas T.", 
                         "postDate": "19/06/2024", 
+                        "articlePage": "0"
+                    },{  
+                        "imgSrc": "data/articles/img/Imagem5.jpg",
+                        "gameName": "Final Fantasy VII Rebirth", 
+                        "title": "How to Get Dark Matter", 
+                        "authorPhotoSrc": "/", 
+                        "authorName": "Lucas T.", 
+                        "postDate": "19/06/2024", 
                         "articlePage": "/"
                     },{  
                         "imgSrc": "data/articles/img/Imagem5.jpg",
@@ -109,7 +125,7 @@
             "contents": [
                 ["Minecraft", "How to use the Creeper cape in Minecraft", "data/articles/img/howtousethecreepercape2.png", "/"],
                 ["Elden Ring", "How to get the Meteorite Ore Blade in Elden Ring", "data/articles/img/howtogetthemeteoriteoreblade1.png", "/"],
-                ["Modern Warfare", "How to earn the Modern Warfare Golden Path achievement", "data/articles/img/modernwarfare.png", "/"],
+                ["Modern Warfare", "How to earn the Modern Warfare Golden Path achievement", "data/articles/img/modernwarfare.png", "0"],
                 ["Final Fantasy VII Rebirth", "How to Get Dark Matter", "data/articles/img/Imagem5.jpg", "/"],
                 ["Hogwarts Legacy", "How to unlock more equipment and storage slots in Hogwarts Legacy", "data/articles/img/Imagem6.png", "/"]
             ]
@@ -118,19 +134,19 @@
             { 
                 "gameTitle": "God of War",
                 "description": "In God of War, players control Kratos, a Spartan warrior who is sent by the Greek gods to kill Ares, the god of war. As the story progresses, Kratos is revealed to be Ares' former servant, who had been tricked into killing his own family and is haunted by terrible nightmares.",
-                "categoryPage": "/#/category",
+                "categoryID": "0",
                 "imgSrc": "data/category/img/God-of-War.webp"
             },
             { 
                 "gameTitle": "The Last Of Us",
                 "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
-                "categoryPage": "",
+                "categoryID": "1",
                 "imgSrc": "data/category/img/thelastofus.avif"
             },
             { 
                 "gameTitle": "Red Dead Redemption 2",
                 "description": "Red Dead Redemption is set during the decline of the American frontier in the year 1911. It follows John Marston, a former outlaw who, after his wife and son are taken hostage by the government in ransom for his services as a hired gun, sets out to bring three members of his former gang to justice.",
-                "categoryPage": "",
+                "categoryID": "2",
                 "imgSrc": "data/category/img/rdr2.webp"
             }
         ]

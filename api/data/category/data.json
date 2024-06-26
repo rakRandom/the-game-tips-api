@@ -1,47 +1,305 @@
 [
     {
-        "gameName": "",
-        "aboutText": "",
+        "gameName": "God of War",
+        "aboutText": "God of War is an action-adventure video game developed by Santa Monica Studio and published by Sony Interactive Entertainment. It was released on April 20, 2018 for PlayStation 4 and on January 14, 2022 for Microsoft Windows.",
         "image": {
-            "src": "",
-            "alt": ""
+            "src": "data/category/img/God-of-War.webp",
+            "alt": "God of War"
         },
         "sections": [
             {
-                "title": "", 
-                "seeAllPage": "",
+                "title": "Newest Posts", 
+                "seeAllPage": "#",
                 "contents": [
                     { 
-                        "gameName": "", 
-                        "title": "", 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
                         "authorPhotoSrc": "", 
-                        "authorName": "", 
-                        "postDate": "", 
-                        "articlePage": ""
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    }
+                ]
+            },
+            {
+                "title": "Relevant Posts", 
+                "seeAllPage": "#",
+                "contents": [
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
+                    },
+                    { 
+                        "gameName": "God of War", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "0"
                     }
                 ]
             }
         ]
     },
     {
-        "gameName": "",
-        "aboutText": "",
+        "gameName": "The Last of Us",
+        "aboutText": "Lorem ipsum",
         "image": {
-            "src": "",
-            "alt": ""
+            "src": "data/category/img/thelastofus.avif",
+            "alt": "The Last of Us"
         },
         "sections": [
             {
-                "title": "", 
-                "seeAllPage": "",
+                "title": "Newest Posts", 
+                "seeAllPage": "#",
                 "contents": [
                     { 
-                        "gameName": "", 
-                        "title": "", 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
                         "authorPhotoSrc": "", 
-                        "authorName": "", 
-                        "postDate": "", 
-                        "articlePage": ""
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    }
+                ]
+            },
+            {
+                "title": "Relevant Posts", 
+                "seeAllPage": "#",
+                "contents": [
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    },
+                    { 
+                        "gameName": "The Last of Us", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "gameName": "Red Dead Redemption 2",
+        "aboutText": "Lorem ipsum",
+        "image": {
+            "src": "data/category/img/rdr2.webp",
+            "alt": "Red Dead Redemption 2"
+        },
+        "sections": [
+            {
+                "title": "Newest Posts", 
+                "seeAllPage": "#",
+                "contents": [
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    }
+                ]
+            },
+            {
+                "title": "Relevant Posts", 
+                "seeAllPage": "#",
+                "contents": [
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
+                    },
+                    { 
+                        "gameName": "Red Dead Redemption 2", 
+                        "title": "Lorem ipsum", 
+                        "authorPhotoSrc": "", 
+                        "authorName": "Fellipe", 
+                        "postDate": "26/06/2024", 
+                        "articlePage": "2"
                     }
                 ]
             }

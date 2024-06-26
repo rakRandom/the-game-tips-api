@@ -10,21 +10,16 @@ app = Flask(__name__)
 app.debug = True
 CORS(app)
 
-@app.route("/get-user/<user_id>", methods=['GET'])
+@app.route("/user/<int:id>", methods=['GET'])
 @cross_origin()
-def get_user(user_id):
-    user_data = {
-        "user_id": user_id,
-        "name": "John Doe",
-        "email": "john.doe@example.com"
-    }
-    
-    extra = request.args.get("extra")
-    if extra:
-        user_data["extra"] = extra
+def user(id):
+    try:
+        content = json_get_data("users/data.json")[id]
+    except:
+        return jsonify("{}", 400)
 
     response = app.response_class(
-        response=dumps(user_data),
+        response=dumps(content),
         status=200,
         mimetype='application/json'
     )
@@ -32,9 +27,9 @@ def get_user(user_id):
     return response
 
 
-@app.route("/get-index/<int:id>", methods=['GET'])
+@app.route("/index/<int:id>", methods=['GET'])
 @cross_origin()
-def get_index(id):
+def index(id):
     try:
         content = json_get_data("landing_page/data.json")[id]
     except:

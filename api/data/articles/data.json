@@ -207,5 +207,93 @@
                 ]
             }
         ]
+    ],
+    [
+        {
+            "game": {
+                "name": "Hogwarts Legacy",
+                "src": "7"
+            },
+            "title": "How to unlock more equipment and storage slots in Hogwarts Legacy",
+            "image": {
+                "src": "data/articles/img/hogwartslegacy.png",
+                "alt": ""
+            },
+            "info": {
+                "date": "29/05/2024",
+                "author": {
+                    "name": "Bárbara Fernandes",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+            {
+                "title": "",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Hogwarts Legacy players specifically looking to expand their equipment and storage slots will need to complete Merlin's Trials, accessible only after reaching a certain point in the game's main story. Hogwarts Legacy follows a line of other action RPGs, allowing players to collect colorful gear of varying rarity and quality to equip their characters. Acquiring new, more powerful gear is essential to success in the game, and players should find plenty of it as they explore the game's vast open world."
+                ]
+            }, 
+
+            {
+                "title": "",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "In Hogwarts Legacy, players can equip gloves, face accessories, hats, neck accessories, capes, and clothing, all of which influence the character's statistics. Equipment is acquired through different means; Sometimes players can loot equipment from chests, other times they can receive it as rewards for completing missions. At the beginning of Hogwarts Legacy, players start with only 20 slots to store equipment, which can generate some anxiety to increase this capacity."
+                ]
+            }, 
+
+            {
+                "title": "",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Players looking to increase their gear slots will need to progress through the main story until they reach the quest “The Trials of Merlin”. After completing this quest, they will be able to access the titular trials whenever they find them in the game world. Tests are clearly marked on the Hogwarts Legacy map, making them easy to find. Upon arrival, players will need to activate trials using Malva Candy and then solve a short puzzle."
+                ]
+            }, 
+
+            {
+                "title": "Step by step to unlock additional slots",
+                "image": {
+                    "src": "data/articles/img/stepbystep.png",
+                    "alt": ""
+                },
+                "body": [
+                    "The next step is for players to access the Challenges menu in the Hogwarts Legacy field guide. Click Exploration and scroll down to the Merlin Tests tab. Players will be rewarded with extra gear slots for completing two Merlin Trials, and more slots for completing six, and so on. Players must claim rewards in the Challenges menu to truly increase their equipment slots in Hogwarts Legacy."
+                ]
+            }, 
+
+            {
+                "title": "What to do when your equipment slots are full in Hogwarts Legacy",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "It is very likely that Hogwarts Legacy players will encounter situations where their equipment slots are full. At this point, they have two options. One of them is to go to the unwanted equipment and destroy it by clicking on the left stick. The most advantageous option is to visit a shop in Hogsmeade and sell any surplus equipment, as gold is extremely useful in Hogwarts Legacy. However, for times when players are away and cannot quickly return to Hogsmeade to unload their items, destroying the items will be the way to go."
+                ]
+            },
+
+            {
+                "title": "",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Hogwarts Legacy is available for PC, Xbox, Playstation and Switch."
+                ]
+            }
+        ]
     ]
 ]

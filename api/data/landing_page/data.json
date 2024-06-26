@@ -31,7 +31,7 @@
                 "seeAllPage": "/",
                 "contents": [
                     { 
-                        "imgSrc": "data/articles/img/howtousethecreepercape2.png",
+                        "imgSrc": "data/articles/img/homeUserCustom.png",
                         "gameName": "Minecraft", 
                         "title": "How to use the Creeper cape in Minecraft", 
                         "authorPhotoSrc": "data/authors/img/fellipe.png", 
@@ -39,7 +39,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "1"
                     },{  
-                        "imgSrc": "data/articles/img/howtogetthemeteoriteoreblade1.png",
+                        "imgSrc": "data/articles/img/locationMeteoriteOre.png",
                         "gameName": "Elden Ring", 
                         "title": "How to get the Meteorite Ore Blade in Elden Ring", 
                         "authorPhotoSrc": "data/authors/img/matheus.jpeg", 
@@ -55,7 +55,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "0"
                     },{  
-                        "imgSrc": "data/articles/img/Imagem5.jpg",
+                        "imgSrc": "data/articles/img/darkMatter.jpg",
                         "gameName": "Final Fantasy VII Rebirth", 
                         "title": "How to Get Dark Matter", 
                         "authorPhotoSrc": "data/authors/img/henrique.jpeg", 
@@ -63,7 +63,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "3"
                     },{  
-                        "imgSrc": "data/articles/img/Imagem6.png",
+                        "imgSrc": "data/articles/img/hogwartslegacy.png",
                         "gameName": "Hogwarts Legacy", 
                         "title": "How to unlock more equipment and storage slots in Hogwarts Legacy",  
                         "authorPhotoSrc": "data/authors/img/lucas.jpeg", 
@@ -78,7 +78,7 @@
                 "seeAllPage": "/",
                 "contents": [
                     { 
-                        "imgSrc": "data/articles/img/howtousethecreepercape2.png",
+                        "imgSrc": "data/articles/img/homeUserCustom.png",
                         "gameName": "Minecraft", 
                         "title": "How to use the Creeper cape in Minecraft", 
                         "authorPhotoSrc": "data/authors/img/fellipe.png", 
@@ -86,7 +86,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "1"
                     },{  
-                        "imgSrc": "data/articles/img/howtogetthemeteoriteoreblade1.png",
+                        "imgSrc": "data/articles/img/locationMeteoriteOre.png",
                         "gameName": "Elden Ring", 
                         "title": "How to get the Meteorite Ore Blade in Elden Ring", 
                         "authorPhotoSrc": "data/authors/img/matheus.jpeg", 
@@ -102,7 +102,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "0"
                     },{  
-                        "imgSrc": "data/articles/img/Imagem5.jpg",
+                        "imgSrc": "data/articles/img/darkMatter.jpg",
                         "gameName": "Final Fantasy VII Rebirth", 
                         "title": "How to Get Dark Matter", 
                         "authorPhotoSrc": "data/authors/img/henrique.jpeg", 
@@ -110,7 +110,7 @@
                         "postDate": "19/06/2024", 
                         "articlePage": "3"
                     },{  
-                        "imgSrc": "data/articles/img/Imagem6.png",
+                        "imgSrc": "data/articles/img/hogwartslegacy.png",
                         "gameName": "Hogwarts Legacy", 
                         "title": "How to unlock more equipment and storage slots in Hogwarts Legacy",  
                         "authorPhotoSrc": "data/authors/img/lucas.jpeg", 
@@ -126,13 +126,13 @@
                 [
                     "Minecraft", 
                     "How to use the Creeper cape in Minecraft", 
-                    "data/articles/img/howtousethecreepercape2.png", 
+                    "data/articles/img/homeUserCustom.png", 
                     "1"
                 ],
                 [
                     "Elden Ring", 
                     "How to get the Meteorite Ore Blade in Elden Ring", 
-                    "data/articles/img/howtogetthemeteoriteoreblade1.png", 
+                    "data/articles/img/locationMeteoriteOre.png", 
                     "2"
                 ],
                 [
@@ -144,13 +144,13 @@
                 [
                     "Final Fantasy VII Rebirth", 
                     "How to Get Dark Matter", 
-                    "data/articles/img/Imagem5.jpg", 
+                    "data/articles/img/darkMatter.jpg", 
                     "3"
                 ],
                 [
                     "Hogwarts Legacy", 
                     "How to unlock more equipment and storage slots in Hogwarts Legacy", 
-                    "data/articles/img/Imagem6.png", 
+                    "data/articles/img/hogwartslegacy.png", 
                     "/"
                 ]
             ]

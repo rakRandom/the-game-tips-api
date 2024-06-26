@@ -21,13 +21,189 @@
         },
         [
             {
-                "title": "",
+                "title": "How to earn the Modern Warfare Golden Path achievement",
                 "image": {
                     "src": "",
                     "alt": ""
                 },
                 "body": [
-                    ""
+                    "Call of Duty: Modern Warfare‘s trophy and achievement is unique from other games as all of them are earned in the game’s campaign. One specific achievement, named Golden Path, seems to be giving some players a little bit of trouble. So, how do you earn the Modern Warfare Golden Path achievement or trophy",
+                    "Modern Warfare Golden Path | Complete “Clean House” without being hit using one bullet per threat",
+                    "If you’re trying to earn the Golden Path achievement in Modern Warfare, then you’ve likely already made it through a handful of the main campaign missions, as it is the fifth mission. To earn the achievement, you’ll need to complete the “Clean House’ mission, while only using one bullet per threat and without being hit by any enemy bullets. This obviously means using one bullet to kill each enemy."
+                ]
+            },
+            {
+                "title": "ALSO: How to kill the Juggernaut in Modern Warfare 2019",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "During the “Clean House” mission, you’ll face 11 different enemies, all who want you dead. As your team nears the front door, you’ll see an open window in front of you. Look at the window and follow the on-screen prompt to use your ladder and climb through the window. As you pass through the first room and enter the hallway, you’ll see three people in a room on your left arguing. If you hang out along the wall, you’ll be able to line up your first shot. From there, you can use the wall as cover to while you eliminate the other two people.",
+                    "From there, head up the stairs and follow your teammate to your designated room to clear. As you open the door, there will be a man with a hostage. Quickly shoot him in the head and wait for the hostage to pick up the gun and then kill her. Once they are both dead, continue into the room and open up the door on your right by the window. Be careful here, you will get shot at multiple times as the door opens, so stay back. After the shots, a target will run into your room and you can eliminate him.",
+                    "Follow your team to the second floor, and make sure to stand back from the doorway as it will be shot to pieces. Once the shooting has slowed down, make your way to the door and open it, using it as cover. There will be one guy in the middle of the room, one that will come from a room on your left, and another that will come from a room on your right. You can use the door as cover to shoot the guy in the middle and on your left, then back up and let the guy on your right come to you, so you don’t get shot. Don’t be too aggressive.",
+                    "Follow your team to the third floor and go to the door on your right. When you open it, a lady will run across the room to grab her baby, don’t shoot either of them. Inside the room, you’ll see another door along the right wall. Open it up and creep over to the bed. As you get close, you’ll see a man under the bed, shoot him. Then, open the door on your right, just before the bed to head to the final floor.",
+                    "Try to open the door on your right, then wait for your teammate to use a crowbar to get it open. As you go in, you’ll find an unarmed woman begging you not to shoot. After a few seconds of silence, Price will say “drop her.” Make sure to pull the trigger right as he gives the command, otherwise, he will kill her and you will fail the Modern Warfare Golden Path achievement.",
+                    "If you follow the steps above, you should have no problem earning the trophy. It is also important to note that if you fail, you can restart checkpoints without nullifying the trophy or achievement."
+                ] 
+            }
+        ]
+    ],
+    [
+        {
+            "game": {
+                "name": "Minecraft",
+                "src": "4"
+            },
+            "title": "How to use the Creeper cape in Minecreft",
+            "image": {
+                "src": "data/article/img/creeperCape.png",
+                "alt": "Creeper Cape"
+            },
+            "info": {
+                "date": "27/05/2024",
+                "author": {
+                    "name": "Giacomo Moura",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+            {
+                "title": "How to use the Creeper cape in Minecreft",
+                "image": {
+                    "src": "data/article/img/homeUserCustom.png",
+                    "alt": "Home custom of player"
+                },
+                "body": [
+                    "To rock the Creeper cape in Minecraft and show off your unique style, you'll need to follow a few simple steps, whether you're using Java Edition or Bedrock Edition. This exclusive accessory, released to celebrate Minecraft's 15th anniversary, can be yours if you follow the rescue and equipment instructions correctly. Let's detail the process for each version of the game:",
+                    "Firstly, make sure Minecraft is completely closed or you have exited the game. This is necessary to ensure coverage is applied correctly after rescue.",
+                    "1.Go to the Minecraft claim page and click the green button that says 'Sign in to claim'.",
+                    "2.Use a Microsoft account associated with your Minecraft game to sign in.",
+                    "3.Once logged in, select the ‘claim coverage’ option."
+                ]
+            },
+            {
+                "title": "Equipping the Cape",
+                "image": {
+                    "src": "data/article/img/choiseTheCape.png",
+                    "alt": "Choise the cape"
+                },
+                "body": [
+                    "Java Edition",
+                    "1.Access the ‘Change your Skin’ page on the Minecraft website.",
+                    "2.Sign back in with your Microsoft account if necessary.",
+                    "3.Scroll down until you find the 15th anniversary cover option. Select it to equip the cape.",
+                    "Fundamental Edit",
+                    "1.Open the game and go to the ‘Swap Room’ section.",
+                    "2.Select the character you want to use the cape with.",
+                    "3.In the menu on the left, select ‘Covers’",
+                    "4.Find the 15th Anniversary skin and click ‘Equip’ to activate.",
+                    "5.If the cover doesn't appear after following these steps, exit the game, restart the app and check again. The cover must be visible and ready to be displayed on your server."
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "game": {
+                "name": "Elden Ring",
+                "src": "5"
+            },
+            "title": "How to get the Meteorite Ore Blade in Elden Ring",
+            "image": {
+                "src": "data/article/img/mainEldenRing.png",
+                "alt": "Elden Ring picture"
+            },
+            "info": {
+                "date": "29/05/2024",
+                "author": {
+                    "name": "Valteci Junior",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+            {
+                "descriptonText": "Katanas in Elden Ring are some of the most popular weapons to build your character with. Both mages and close-range fighters find these weapons extremely useful as they are highly diverse. Each Katana is unique in its own way, allowing for greater class flexibility. While Moonveil and Rivers of Blood have won the hearts of many fans, other Katanas tend to go unnoticed and can be included to create unique Tarnished builds.",
+                "title": "Meteorite Ore Blade Location",
+                "image": {
+                    "src": "data/article/img/locationMeteoriteOre.png",
+                    "alt": "Meteriote Ore Location"
+                },
+                "body": [
+                    "The first stage is at the free point on the Elden Ring map. If you have already discovered Caelid, you can skip this part and follow the guide from the next segment onwards. However, if you've just started the game and are looking for a shortcut to get your hands on a powerful blade, go for Limgrave.",
+                    "To retrieve this Gravity Katana, start by heading to the First Step Place of Grace, where you begin your journey as a Tarnished in the Lands Between. You should head east towards the Dragonscorched Ruins immediately. Note that this is an early game area, so once you retrieve this sword, you will have to invest some points to use it.",
+                    "Once you reach the Dragon-Burned Ruins, you can either eliminate enemies in your path or run past them. Anyway, look for a staircase that leads to a dark room full of rats. Just like before, kill the rats or go past them and enter the room ahead with a chest. Open the chest and it will transport you to Sellia's Crystal Tunnel in Caelid."
+                ]
+            },
+            {
+                "title": "Sellia Crystal Tunnel and Meteorite Ore Blade",
+                "image": {
+                    "src": "data/article/img/seliaCrystalLocation.png",
+                    "alt": "Selia Crystal Location"
+                },
+                "body": [
+                    "Now that you've been teleported to Caelid, you're in an area of the map that's considerably more difficult than before. Note that if you have just started the game or are at a low level, you will want to avoid enemies as they will likely eliminate you quickly. From this point, try to exit the tunnel and to do so you must head south towards the sloping landscape. You will soon find a Site of Grace and see the tunnel exit. Your next step is to travel southwest toward the Aeonia Swamp Rim Place of Grace.",
+                    "Be sure to ride the Torrent as you run through the swamp; Otherwise, you will take damage from Scarlett Rot that could be the end of you. Once you reach the checkpoint, continue southwest until you reach the Caelid's Point Ruins. Look for another staircase leading to a dark tunnel (you'll probably want to use a torch here). Once inside, there will be annoying monsters that will shoot arrows at you; They shouldn't be much of a problem, but if you get past them first and grab the item in the room, it will be a Meteorite Ore Blade!"
+                ]
+            },
+            {
+                "title": "The meteorite ore blade",
+                "image": {
+                    "src": "data/article/img/mateoriteOreBlade.png",
+                    "alt": "Meteriote Ore Blade"
+                },
+                "body": [
+                    "This blade is a phenomenal weapon that scales primarily with Dexterity, Strength, and Intelligence and is excellent at dealing cutting and piercing damage for close-range combat. As per its description, “Katana forged from meteorite ore to dispatch life forms born from shooting stars. Deals magic damage. The blade is heavy, known for delivering such ferocious cuts that the impact here is similar to the fall of a meteor.” You will notice that the heavy attack and some other moves are unique to this Katana.",
+                    "In addition to the physical damage to the sword's body, this Katana also causes blood loss to accumulate, adding diversity to the weapon. His ability, Gravitas, continues to add even more fiber by utilizing gravity magic to pull in his enemies while damaging them (while looking dramatically awesome).",
+                    "Elden Ring is available for PC, PS4, Xbox One, PS5 and Xbox Series S and X."
+                ]
+            }
+        ]
+    ],
+    [
+        {
+            "game": {
+                "name": "Final Fantasy VII Rebirth",
+                "src": "6"
+            },
+            "title": "How to Get Dark Matter",
+            "image": {
+                "src": "data/article/darkMatter.jpg",
+                "alt": "Dark Matter"
+            },
+            "info": {
+                "date": "",
+                "author": {
+                    "name": "Shane Williams",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+            {
+                "descriptonText": "The 'Item Transmuter' iconItem Transmuter allows you to craft a variety of equipment which will massively strengthen your party, but some of the items required can be hard to come by. On this page, we’ll provide you with the necessary steps to finding Dark Matter in Final Fantasy VII Rebirth.",
+                "title": "How to Get Dark Matter in FF7 Rebirth",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "As you start venturing into the final quarter of FFVII Rebirth, you’ll want to make sure your equipment is up to scratch and you can do this by crafting some of the best accessories in the game. However, one of the resources you’ll need for some of the better accessories in Rebirth is Dark Matter. You better hope that you like minigames if you want to get hands on it, as you’ll need to get the top score on some of the many minigames that the game has to offer, such as G-Bike, 3D Brawler etc. If you’re looking for some tips on how make some of the required minigames easier, then check out the links below:"
+                ]
+            },
+            {
+                "title": "Dark Matter Crafting Items",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body":[
+                    "Once you’ve acquired some Dark Matter, you’ll need to work on getting the Transmuter Chip: Ultimate Accessories next and this can be done by completing the Six-Person Bout: Harmony of Discord in the Musclehead Colosseum. Here you’ll be given six different items that you can craft with Dark Matter (found below) and although you’ll ideally want to have all of them in your arsenal, we recommend that you make sure to at least get the Enhanced Camaraderie Earrings as you’ll be relying on synergy abilities a lot throughout the game to generate ATB and the Enhanced Karmic Cowl for your tanky characters, such as Barret."
                 ]
             }
         ]

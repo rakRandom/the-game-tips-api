@@ -153,7 +153,7 @@
             {
                 "title": "The meteorite ore blade",
                 "image": {
-                    "src": "data/articles/img/mateoriteOreBlade.png",
+                    "src": "data/articles/img/meteoriteOreBlade.png",
                     "alt": "Meteriote Ore Blade"
                 },
                 "body": [
@@ -172,7 +172,7 @@
             },
             "title": "How to Get Dark Matter",
             "image": {
-                "src": "data/articles/darkMatter.jpg",
+                "src": "data/articles/img/darkMatter.jpg",
                 "alt": "Dark Matter"
             },
             "info": {

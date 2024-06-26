@@ -295,5 +295,161 @@
                 ]
             }
         ]
+    ],
+    [
+        {
+            "game": {
+                "name": "Multiversus",
+                "src": ""
+            },
+            "title": "MultiVersus Character Guide: Jason Voorhees",
+            "image": {
+                "src": "",
+                "alt": ""
+            },
+            "info": {
+                "date": "12/06/2024",
+                "author": {
+                    "name": "By Henrique",
+                    "id": 0,
+                    "imgSrc": ""
+                }
+            }
+        },
+        [
+
+            {
+                "title": "",
+                "image": {
+                    "src": "data/category/img/nomedoarquivo.tantofaz",
+                    "alt": "image1"
+                }
+            }
+        
+        ,
+        {
+            "title":"",
+            "image": {
+                "src": "",
+                "alt": ""
+            },
+            "body": [
+                "Welcome to the first in a long line of MultiVersus character guides. As the first wave of post-launch patches has begun, I’ll now be diving in, starting with three brand new characters in order to offer some tips and general strategies to help you get a leg up. First up, it’s Jason.     It makes sense to start with Jason Voorhees, and that’s not just because he’s become a fast favorite of mine. He comes in the Battle Pass for MultiVersus’ first season, which means returning Open Beta players get him off the bat, and if you’re spending money, he’s a more reasonable return for investment compared to Joker. So grab your machete, axe and bright yellow sleeping bags, folks; it’s spooky time."
+            ]
+        }
+        ,
+        
+        {
+            "title": "",
+            "image": {
+                "src": "data/category/img/nomedoarquivo.tantofaz",
+                "alt": "image2"
+            }
+        }
+    
+        ,
+        {
+            "title": "How to unlock Jason in MultiVersus",
+            "image": {
+                "src": "",
+                "alt": ""
+            },
+            "body": [
+                "For now, Jason is an instant unlock if you buy the season one Battle Pass. If you played the Open Beta and are coming back while the season is active, you don’t even have to pay. Otherwise, you’ll need to wait until the season ends before you can grab Jason as a separate purchase with Gleamium or Fighter Currency. It’s probably safe to assume he’ll be priced the same as Joker, but that’s just a guess for now."
+            ]
+        }
+        ,
+        {
+            "title": "Jason’s Move List",
+            "image": {
+                "src": "",
+                "alt": ""
+            }
+        },
+            
+            {
+                "title": "Passive",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Relentless: Jason isn’t affected by knockback when he has “Gray Health” activated."
+                ]
+            }
+            ,
+            
+            {
+                "title": "Attacks",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Dash: Freight Train: Shoulder tackle dash attack - updated to block projectiles!   Neutral (Ground:) Axe Slam: Chargeable overhead slash that also moves Jason forward during the charge.   Neutral (Air): Scoop and Slice: A scoop, and a slice!   Side (Ground: Fear the 13th: Jason’s basic three-hit combo you’ll be hearing a lot about later. Ends with a grab.   Side (Air): Cut Them Down: A simple horizontal slash that hits super hard.   Up (Ground): Crunch Time: Jason folds a bed in half so hard it probably kills you.   Up (Air): From Below: A two-hit, upward poking move that has a short horizontal range.   Down (Ground): Zombie Stomp: A chargeable stomp that hits in front of Jason, but sends opponents upwards on contact.   Down (Air): 6 Feet Under: A downward punch that spikes, and has a deceptively wide hitbox."
+                ]
+            }
+            ,
+            {
+                "title": "Specials",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Neutral (Land): Unstoppable Rage: Damage yourself in exchange for Gray Health, which also goes to allies in 2v2. The next attack has more damage and knockback, and Jason moves faster until the next attack. This buff lasts as long as Gray Health is active.    Neutral (Air): The Slasher: An aerial grapple move that hits directly in front of Jason and deals a few hits in damage. Difficult to land! Side (Terrain): Mist Step: A forward teleportation movement with a long rope. Deals damage if an opponent is caught in the animation.  Side (Air): Air Mist Stage: Same as above, but in the air. It may be pointed slightly up or down. Up (solo): No escape: A quick, upward swing that acts as a grab on contact.   Up (Air): Risen Strike: An uppercut in the air that has a slow start but deals great damage and knockback.  Down (Ground): Sweet Dreams: Grappling move that traps your opponent(s) in a sleeping bag, Jason X style! You can hit the bag with Attack or swing and throw with Special, turning trapped opponents into projectiles.  Down (Air): Down and Out: A slow, forceful diving kick that gives an extra forward swing if used close enough to the ground for Jason to land."
+                ]
+            }
+            ,
+            {
+                "title": "",
+                "image": {
+                    "src": "data/category/img/nomedoarquivo.tantofaz",
+                    "alt": "image3"
+                }
+            }
+        
+            ,
+            {
+                "title": "Jason tips and strategies",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Mr. Voorhees is a Tank character, which means he’s big and slow. He also packs a major punch, offering tons of damage per hit compared to the Iron Giant or even Superman. That’s given him the designation of “noob killer,” since getting points off less experienced players takes way less effort than with most other fighters. But the story changes once you get further up the food chain, as using Jason becomes a much more precise affair.  Jason doesn’t automatically have any armor properties, so you can’t just throw out big, meaty moves without fear of consequences. Instead, it’s better to wait for punishment opportunities, or toss out quick moves like his Forward Jab or Ground Up Special (No Escape) to go on the offensive and control screen space. Jason’s Air Neutral Scoop and Slice) or Air Down attack (6 Feet Under Or Go To Hell) are also solid approaching moves that can create combo opportunities.  move is to use Up Attack (Crunch Time) after the second jab, which lets you create a route to Jason’s absurdly powerful up special.   If you really want to cook with gas, while Jason doesn’t have armor in his normal moveset, you can use his Ground Neutral Special (Unstoppable Rage) to activate his passive. You take some self-inflicted damage, but you get a temporary bump in damage for your next move alongside movement speed and “gray health.” While the gray health is active you don’t take knockback, giving you a chance to really chase someone down and make a huge damage trade in your favor. This is a risky play, but the reward can be enormous."
+                ]
+            }
+            ,
+            {
+                "title": "",
+                "image": {
+                    "src": "data/category/img/nomedoarquivo.tantofaz",
+                    "alt": "image4"
+                }
+            }
+            ,
+            {
+                "title": "What perks should Jason use?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "The unique perk you want to use is Monstrous Sidestep, if you use one. This causes Jason's Side Special (Mist Step) to hit the closest character, even teleporting behind them if he is close enough. This helps to effectively close the distance, something Jason wouldn't be able to do well otherwise. Well rounded is good if you want to do a little more damage and don't find the Side Special all that useful.    Beyond that, Protective Momentum is great for help against projectiles, another of Jason’s biggest weaknesses. Last Stand is an obvious choice for Tank-style play, while Pugilist is a no-brainer for a pure melee character."
+                ]
+            }
+            ,
+            {
+                "title": "Okay sure, but is Jason good?",
+                "image": {
+                    "src": "",
+                    "alt": ""
+                },
+                "body": [
+                    "Let’s close this out with some opinion work. Jason is super-fun to play, especially if you have love for classic horror movies. Not only is the design great and fitting for the MultiVersus style, but all the little nods to Friday the 13th and jokes in Jason’s moveset are on point. Swinging the classic murder weapons around, with so much weight powering the animations, feels great. The sleeping bag is a hilarious touch as well, and using it can really change the cadence of a match."
+                ]
+            }
+        ]
     ]
 ]

@@ -3,7 +3,7 @@
         {
             "imgSrc": "data/articles/img/modernwarfare.png", 
             "gameName": "Modern Warfare", 
-            "categoryID": "0", 
+            "categoryID": "/", 
             "articleTitle": "How to earn the Modern Warfare Golden Path achievement", 
             "authorName": "Henrique", 
             "articleDate": "27/05/2024", 
@@ -37,7 +37,7 @@
                         "authorPhotoSrc": "data/authors/img/fellipe.png", 
                         "authorName": "Fellipe",
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "1"
                     },{  
                         "imgSrc": "data/articles/img/howtogetthemeteoriteoreblade1.png",
                         "gameName": "Elden Ring", 
@@ -45,7 +45,7 @@
                         "authorPhotoSrc": "data/authors/img/matheus.jpeg", 
                         "authorName": "Matheus", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "2"
                     },{  
                         "imgSrc": "data/articles/img/modernwarfare.png",
                         "gameName": "Modern Warfare", 
@@ -61,7 +61,7 @@
                         "authorPhotoSrc": "data/authors/img/henrique.jpeg", 
                         "authorName": "Henrique", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "3"
                     },{  
                         "imgSrc": "data/articles/img/Imagem6.png",
                         "gameName": "Hogwarts Legacy", 
@@ -84,7 +84,7 @@
                         "authorPhotoSrc": "data/authors/img/fellipe.png", 
                         "authorName": "Fellipe",
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "1"
                     },{  
                         "imgSrc": "data/articles/img/howtogetthemeteoriteoreblade1.png",
                         "gameName": "Elden Ring", 
@@ -92,7 +92,7 @@
                         "authorPhotoSrc": "data/authors/img/matheus.jpeg", 
                         "authorName": "Matheus", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "2"
                     },{  
                         "imgSrc": "data/articles/img/modernwarfare.png",
                         "gameName": "Modern Warfare", 
@@ -108,7 +108,7 @@
                         "authorPhotoSrc": "data/authors/img/henrique.jpeg", 
                         "authorName": "Henrique", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "3"
                     },{  
                         "imgSrc": "data/articles/img/Imagem6.png",
                         "gameName": "Hogwarts Legacy", 
@@ -123,11 +123,36 @@
         ],
         {
             "contents": [
-                ["Minecraft", "How to use the Creeper cape in Minecraft", "data/articles/img/howtousethecreepercape2.png", "/"],
-                ["Elden Ring", "How to get the Meteorite Ore Blade in Elden Ring", "data/articles/img/howtogetthemeteoriteoreblade1.png", "/"],
-                ["Modern Warfare", "How to earn the Modern Warfare Golden Path achievement", "data/articles/img/modernwarfare.png", "0"],
-                ["Final Fantasy VII Rebirth", "How to Get Dark Matter", "data/articles/img/Imagem5.jpg", "/"],
-                ["Hogwarts Legacy", "How to unlock more equipment and storage slots in Hogwarts Legacy", "data/articles/img/Imagem6.png", "/"]
+                [
+                    "Minecraft", 
+                    "How to use the Creeper cape in Minecraft", 
+                    "data/articles/img/howtousethecreepercape2.png", 
+                    "1"
+                ],
+                [
+                    "Elden Ring", 
+                    "How to get the Meteorite Ore Blade in Elden Ring", 
+                    "data/articles/img/howtogetthemeteoriteoreblade1.png", 
+                    "2"
+                ],
+                [
+                    "Modern Warfare", 
+                    "How to earn the Modern Warfare Golden Path achievement", 
+                    "data/articles/img/modernwarfare.png", 
+                    "0"
+                ],
+                [
+                    "Final Fantasy VII Rebirth", 
+                    "How to Get Dark Matter", 
+                    "data/articles/img/Imagem5.jpg", 
+                    "3"
+                ],
+                [
+                    "Hogwarts Legacy", 
+                    "How to unlock more equipment and storage slots in Hogwarts Legacy", 
+                    "data/articles/img/Imagem6.png", 
+                    "/"
+                ]
             ]
         }, 
         [

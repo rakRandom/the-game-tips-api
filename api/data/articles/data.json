@@ -57,7 +57,7 @@
             },
             "title": "How to use the Creeper cape in Minecreft",
             "image": {
-                "src": "data/article/img/creeperCape.png",
+                "src": "data/articles/img/creeperCape.png",
                 "alt": "Creeper Cape"
             },
             "info": {
@@ -73,7 +73,7 @@
             {
                 "title": "How to use the Creeper cape in Minecreft",
                 "image": {
-                    "src": "data/article/img/homeUserCustom.png",
+                    "src": "data/articles/img/homeUserCustom.png",
                     "alt": "Home custom of player"
                 },
                 "body": [
@@ -87,7 +87,7 @@
             {
                 "title": "Equipping the Cape",
                 "image": {
-                    "src": "data/article/img/choiseTheCape.png",
+                    "src": "data/articles/img/choiseTheCape.png",
                     "alt": "Choise the cape"
                 },
                 "body": [
@@ -113,7 +113,7 @@
             },
             "title": "How to get the Meteorite Ore Blade in Elden Ring",
             "image": {
-                "src": "data/article/img/mainEldenRing.png",
+                "src": "data/articles/img/mainEldenRing.png",
                 "alt": "Elden Ring picture"
             },
             "info": {
@@ -130,7 +130,7 @@
                 "descriptonText": "Katanas in Elden Ring are some of the most popular weapons to build your character with. Both mages and close-range fighters find these weapons extremely useful as they are highly diverse. Each Katana is unique in its own way, allowing for greater class flexibility. While Moonveil and Rivers of Blood have won the hearts of many fans, other Katanas tend to go unnoticed and can be included to create unique Tarnished builds.",
                 "title": "Meteorite Ore Blade Location",
                 "image": {
-                    "src": "data/article/img/locationMeteoriteOre.png",
+                    "src": "data/articles/img/locationMeteoriteOre.png",
                     "alt": "Meteriote Ore Location"
                 },
                 "body": [
@@ -142,7 +142,7 @@
             {
                 "title": "Sellia Crystal Tunnel and Meteorite Ore Blade",
                 "image": {
-                    "src": "data/article/img/seliaCrystalLocation.png",
+                    "src": "data/articles/img/seliaCrystalLocation.png",
                     "alt": "Selia Crystal Location"
                 },
                 "body": [
@@ -153,7 +153,7 @@
             {
                 "title": "The meteorite ore blade",
                 "image": {
-                    "src": "data/article/img/mateoriteOreBlade.png",
+                    "src": "data/articles/img/mateoriteOreBlade.png",
                     "alt": "Meteriote Ore Blade"
                 },
                 "body": [
@@ -172,7 +172,7 @@
             },
             "title": "How to Get Dark Matter",
             "image": {
-                "src": "data/article/darkMatter.jpg",
+                "src": "data/articles/darkMatter.jpg",
                 "alt": "Dark Matter"
             },
             "info": {

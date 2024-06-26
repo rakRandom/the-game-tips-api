@@ -69,7 +69,7 @@
                         "authorPhotoSrc": "data/authors/img/lucas.jpeg", 
                         "authorName": "Lucas T.", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "4"
                     }
                 ]
             }, 
@@ -116,7 +116,7 @@
                         "authorPhotoSrc": "data/authors/img/lucas.jpeg", 
                         "authorName": "Lucas T.", 
                         "postDate": "19/06/2024", 
-                        "articlePage": "/"
+                        "articlePage": "4"
                     }
                 ]
             }
@@ -151,7 +151,7 @@
                     "Hogwarts Legacy", 
                     "How to unlock more equipment and storage slots in Hogwarts Legacy", 
                     "data/articles/img/hogwartslegacy.png", 
-                    "/"
+                    "4"
                 ]
             ]
         }, 
